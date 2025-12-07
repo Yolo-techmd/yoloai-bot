@@ -1,0 +1,9 @@
+node_modules/
+.env
+session/
+sessions/
+auth/
+auth_info.json
+*.data.json
+*.db
+*.sqlite

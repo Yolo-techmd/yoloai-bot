@@ -1,0 +1,13 @@
+{
+  "name": "yoloai-bot",
+  "version": "1.0.0",
+  "description": "Supportive, calm and smart AI bot called Yoloai.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "openai": "^4.73.0",
+    "dotenv": "^16.4.5"
+  }
+}
